@@ -4,6 +4,7 @@ The main files needed for project submission :
 2. A project report in .pdf format --> Semantic_Spotter_Langchain_Project_Report_Shakti_Priya_Kulkarni.pdf
 
 Additional documents : 
+
 3. Policy+Documents.zip file --> containing the 7 insurance policy documents used as data source for this project
 4. Githublink notepad file
 
